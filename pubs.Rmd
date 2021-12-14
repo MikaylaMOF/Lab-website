@@ -2,8 +2,56 @@
 title: "Publications"
 ---
 
-> 2020 - Present
 
-> 2010s
+> 2020
 
-> 2000s
+
+
+> 2019
+
+- **van Poorten, B.T.**, C.J.A. MacKenzie. 2019. Balancing angler utility and conservation in a recreational fishery using decision analysis. North American Journal of Fisheries Management 40(1):29-47.
+
+- **van Poorten, B.T.**, E.V. Camp. 2019. Addressing challenges common to modern recreational fisheries with a buffet-style landscape management approach. Reviews in Fisheries Science and Aquaculture 27(4):393-416. DOI: 10.1080/23308249.2019.1619071.
+
+- **van Poorten, B.T.**, M. Beck, L.-M. Herborg 2019. Turning population viability analysis on its head: using stochastic models to evaluate invasive species control strategies. Biological Invasions 21(4):1197-1213.
+
+- Hunt, L., E. Camp, **B. van Poorten**, R. Arlinghaus. 2019. Catch and non-catch-related determinants of where anglers fish: a review of three decades of site choice research in recreational fisheries. Reviews in Fisheries Science and Aquaculture 27(3):261-268.
+
+- Chudnow*, R., **B. van Poorten**, M. McAllister. 2019. Estimating cross-population variation in juvenile survival compensation for bull trout (Salvelinus confluentus): A Bayesian hierarchical approach. Canadian Journal of Fisheries and Aquatic Sciences 76(9):1571-1580.
+
+- Carruthers, T.R., K. Dabrowska*, W. Haider, E. Parkinson, D. Varkey*, H. Ward, M.K. McAllister, T. Godin, **B. van Poorten**, P. Askey, K.L. Wilson*, L. Hunt, A. Clarke, E. Newton, C. Walters, J.R. Post 2019. Landscape-scale social and ecological outcomes of dynamic angler and fish behaviours: processes, data, and patterns. Canadian Journal of Fisheries and Aquatic Sciences 76(6):970-988.
+
+
+> 2018
+
+- **van Poorten, B.T.**, S. Harris, A. Hebert*. 2018. Sockeye recovery projections for a highly managed mixed kokanee-sockeye system. Canadian Journal of Fisheries and Aquatic Sciences 75(12): 2280-2290.
+
+- **van Poorten, B.T.**, J. Korman, C.J. Walters. 2018. Revisiting Beverton-Holt recruitment in the presence of variation in food availability. Reviews in Fish Biology and Fisheries 28(3): 607-624.
+
+- **van Poorten, B.T.**, S.H., Brydle*. 2018. Evaluating fishing effort from traffic counters: opportunities and challenges. Fisheries Research 204: 231-238.
+
+> 2017
+
+- **van Poorten, B.T.**, B. Barrett, C.J. Walters, R.N.M Ahrens. 2017. Are removal-based abundance models robust to fish behavior? Fisheries Research 196:160-169.
+
+- Barrett*, B, **B.T. van Poorten**, A.B. Cooper. 2017. Concurrently assessing survey mode and sample size in off-site angler surveys. North American Journal of Fisheries Management 34(4):756-767.
+
+> 2016
+
+- **van Poorten, B.T.** , C.J. Walters, H.G.M. Ward. 2016. Prediction of changes in the catchability coefficient as less skilled fishermen drop out during stock declines. Fisheries Research. 183:279-384.
+
+> 2015
+
+- Camp*, E.V., **B.T. van Poorten**, C.J. Walters. 2015. Evaluating short openings as a management tool to maximize value in catch and release fisheries. North American Journal of Fisheries Management. 35:1106-1120.
+
+- **van Poorten, B.T.**, T.R. Carruthers, H.G.M. Ward, D.A. Varkey*. 2015. Imputing recreational fishing effort from time-lapse cameras using an hierarchical Bayesian model. Fisheries Research. 172:265-273
+
+>2013
+
+- **van Poorten, B.T.**, S.P. Cox, A.B. Cooper. 2013. Efficacy of harvest and minimum size limit regulations for controlling short-term harvest in recreational fisheries. Fisheries Management and Ecology. 20:258-267.
+
+> 2011
+
+- **van Poorten, B.T.**, R. Arlinghaus, K. Daedlow*, S.S. Haertel-Borer. 2011. Social-ecological interactions, management panaceas, and the future of wild fish populations. Proceedings of the National Academy of Sciences 108:12554-12559.
+
+![](https://lh3.googleusercontent.com/uc2kDeoMIN9PjcCLMLkIfRRJe4EJDfl9M2WhhCLzPw2iaMYvu3IQDnzVFwxXCK1LC0wKYkrKmJMMNUbqzhvH8JniZRxROYEsAXUpmS2lLKFgEkdEn4sXQ8BwNK6zrRXBaAQbOgESIuj27O3reXeOVGNTMq3D4-qRIH8Sv-d40Yrl1Y-b-R3KgyqOGDK_vreo-9AC_eypuiC8CI2wt2Ws1mjBM9QpZwGNu7IVWrdlWlizsu_zkt8L5Pf6LR4ogtBb5cIAHx3kVW05MHnc9MVT0Zs0V4LGDpO5yED7YhL7IENl5-PxNvKkS1wSnxEby75_OXqbADs3Xzebe__HbHbjKsRpuPlpPufvQcwLpJSrVI2327H3RZKVb1_QJ0Ek8lebLuhSJz3WAUDM-y1VKuc2bi4kWzUbXglLKU2Hr9dI8Eg78FZgvZ2O4jtVAB7isGOahGfGK4Fp7-8Jwu8pPOEpm5lmFA6gqkVRdW4J4sDFt_Lm2Kq6BVN3wt2CMeE3v8LrZf8TxK0kixVIvMD5_3WcCtBSukG9v77fHrbDN7q0b4RH_wH_BSwK303nFhuSFRFctI4F4LQ7FL-NfkGTwAP1G0es1vfiBJFhnJQo2qWsZEBmctIPGlxtQGl7iEEnD2m0Zjt65_Xquo6CT5kDKUatZ21Vmm7dDMmDHIzuucuDRJ1fbEJNPRpfKWMr5jw186evFulRt8bhAYRroCwDQBDPkoA=w2272-h1137-no?authuser=0)
