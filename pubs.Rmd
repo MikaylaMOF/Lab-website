@@ -2,20 +2,54 @@
 title: "Publications"
 ---
 
+> 2021
+
+- Nieman, C. L., Iwicki, C., Lynch, A. J., Sass, G. G., Solomon, C. T., Trudeau, A., & **van Poorten, B.** (2021). Creel surveys for social-ecological-systems focused fisheries management. Reviews in Fisheries Science & Aquaculture, 29(4), 739-752.
+
+- Samad‐zada, F., **van Poorten, B. T.**, Harris, S., Godbout, L., & Russello, M. A. (2021). Genome‐wide analysis reveals demographic and life‐history patterns associated with habitat modification in landlocked, deep‐spawning sockeye salmon (Oncorhynchus nerka). Ecology and Evolution, 11(19), 13186-13205.
+
+- Johnston, F. D., Simmons, S., **van Poorten, B. T.**, & Venturelli, P. A. (2021). Comparative analyses with conventional surveys reveal the potential for an angler app to contribute to recreational fisheries monitoring. Canadian Journal of Fisheries and Aquatic Sciences, (ja).
+
+- Woodruff, P., **van Poorten, B. T.**, Christensen, V., & Walters, C. J. (2021). Reservoir fertilisation and fishery response in a highly managed reservoir with uncertain flows: Ecosystem‐based management using decision analysis. Fisheries Management and Ecology, 28(3), 230-240
+
+- Taylor, E. B., Chudnow, R., Pillipow, R., Spendlow, I., & **van Poorten, B.** (2021). Microsatellite DNA analysis of overwintering bull trout (Salvelinus confluentus) and its implications for harvest regulation and habitat management. Fisheries Management and Ecology, 28(3), 219-229.
+
+- Ziegler, J., Jardine, S., Jones, S., **van Poorten, B.**, Janssen, M., & Solomon, C. (2021). Investing in the commons: transient welfare creates incentives despite open access. Ecology and Society, 26(2).
+
+- **van Poorten, B.** & Beck, M. (2021). Getting to a decision: using structured decision-making to gain consensus on approaches to invasive species control. Management of Biological Invasions, 12(1), 25.
+
+- Woodruff, P., **van Poorten, B. T.**, Walters, C. J., & Christensen, V. C. (2021). Potential effects of invasive Dreissenid mussels on a pelagic freshwater ecosystem: using an ecosystem model to simulate mussel invasion in a sockeye lake. Aquatic Invasions, 16(1).
+
+- Trudeau, A., Dassow, C. J., Iwicki, C. M., Jones, S. E., Sass, G. G., Solomon, C. T., **van Poorten, B. T.**, & Jensen, O. P. (2021). Estimating fishing effort across the landscape: A spatially extensive approach using models to integrate multiple data sources. Fisheries Research, 233, 105768.
 
 > 2020
 
+- **van Poorten, B. T.** (2020). Recovery tactics for sockeye blocked from anadromy evaluated through decision analysis and value of information. Fisheries Research, 230, 105666.
+
+- Solomon, C. T., Dassow, C. J., Iwicki, C. M., Jensen, O. P., Jones, S. E., Sass, G. G., Trudeau, A., **van Poorten, B. T.**, & Whittaker, D. (2020). Frontiers in modelling social–ecological dynamics of recreational fisheries: A review and synthesis. Fish and Fisheries, 21(5), 973-991.
+
+- Flowers, H. J., Pine III, W. E., **van Poorten, B. T.**, & Camp, E. V. (2020). Evaluating Population Recovery Characteristics and Potential Recovery Actions for a Long‐Lived Protected Species: A Case History of Gulf Sturgeon in the Apalachicola River. Marine and Coastal Fisheries, 12(1), 33-49.
+
+- **van Poorten, B. T.**, & MacKenzie, C. J. (2020). Using decision analysis to balance angler utility and conservation in a recreational fishery. North American Journal of Fisheries Management, 40(1), 29-47.
+
+- **Cahill, C. L**., Anderson, S. C., Paul, A. J., MacPherson, L., Sullivan, M. G., **van Poorten, B.**, Walters, C. J., & Post, J. R. (2020). A spatial–temporal approach to modeling somatic growth across inland recreational fisheries landscapes. Canadian Journal of Fisheries and Aquatic Sciences, 77(11), 1822-1835.
+
+- Dassow, C. J., Ross, A. J., Jensen, O. P., Sass, G. G., **van Poorten, B. T.**, Solomon, C. T., & Jones, S. E. (2020). Experimental demonstration of catch hyperstability from habitat aggregation, not effort sorting, in a recreational fishery. Canadian Journal of Fisheries and Aquatic Sciences, 77(4), 762-769.
 
 
 > 2019
 
+- Hunt, L. M., Camp, E., **van Poorten, B.**, & Arlinghaus, R. (2019). Catch and non-catch-related determinants of where anglers fish: a review of three decades of site choice research in recreational fisheries. Reviews in Fisheries Science & Aquaculture, 27(3), 261-286.
+
+- **van Poorten, B. T.**, & Camp, E. V. (2019). Addressing challenges common to modern recreational fisheries with a buffet-style landscape management approach. Reviews in Fisheries Science & Aquaculture, 27(4), 393-416.
+
+- Ben‐Hasan, A., Walters, C., Christensen, V., **van Poorten, B.**, Rajab, S., Al‐Husaini, M., & Al‐Foudari, H. (2019). Predicting changes in mean length with an age‐structured stock assessment model. Natural Resource Modeling, 32(4), e12218.
+
+- Watson, B. M., Biagi, C. A., Northrup, S. L., Ohata, M. L., Charles, C., Blanchfield, P. J., Johnston, S. V., Asket, P. J., **van Poorten, B. T.**, & Devlin, R. H. (2019). Distinct diel and seasonal behaviours in rainbow trout detected by fine-scale acoustic telemetry in a lake environment. Canadian Journal of Fisheries and Aquatic Sciences, 76(8), 1432-1445.
+
+- **van Poorten, B. T.**, Beck, M., & Herborg, L. M. (2019). Turning population viability analysis on its head: using stochastic models to evaluate invasive species control strategies. Biological Invasions, 21(4), 1197-1213.
+
 - **van Poorten, B.T.**, C.J.A. MacKenzie. 2019. Balancing angler utility and conservation in a recreational fishery using decision analysis. North American Journal of Fisheries Management 40(1):29-47.
-
-- **van Poorten, B.T.**, E.V. Camp. 2019. Addressing challenges common to modern recreational fisheries with a buffet-style landscape management approach. Reviews in Fisheries Science and Aquaculture 27(4):393-416. DOI: 10.1080/23308249.2019.1619071.
-
-- **van Poorten, B.T.**, M. Beck, L.-M. Herborg 2019. Turning population viability analysis on its head: using stochastic models to evaluate invasive species control strategies. Biological Invasions 21(4):1197-1213.
-
-- Hunt, L., E. Camp, **B. van Poorten**, R. Arlinghaus. 2019. Catch and non-catch-related determinants of where anglers fish: a review of three decades of site choice research in recreational fisheries. Reviews in Fisheries Science and Aquaculture 27(3):261-268.
 
 - Chudnow*, R., **B. van Poorten**, M. McAllister. 2019. Estimating cross-population variation in juvenile survival compensation for bull trout (Salvelinus confluentus): A Bayesian hierarchical approach. Canadian Journal of Fisheries and Aquatic Sciences 76(9):1571-1580.
 
@@ -23,6 +57,14 @@ title: "Publications"
 
 
 > 2018
+
+- Wor, C., **van Poorten, B.**, Licandeo, R., & Walters, C. J. (2018). Stock reduction analysis using catch-at-length data: Length-SRA. Fisheries Research, 208, 124-132.
+
+- **van Poorten, B. T.**, Taylor, N., O’Brien, D., & Walters, C. J. (2018). A length-based mark-recapture model for estimating abundance and recruitment: Removing bias due to size-selective capture gear. Ecological modelling, 381, 10-22.
+
+- **van Poorten, B. T.**, & Brydle, S. (2018). Estimating fishing effort from remote traffic counters: opportunities and challenges. Fisheries Research, 204, 231-238.
+
+- Varkey, D. A., **van Poorten, B.**, McAllister, M. K., Godin, T., Parkinson, E., & Kumar, R. (2018). Describing growth based on landscape characteristics and stocking strategies for rainbow trout. Fisheries Research, 208, 229-238.
 
 - **van Poorten, B.T.**, S. Harris, A. Hebert*. 2018. Sockeye recovery projections for a highly managed mixed kokanee-sockeye system. Canadian Journal of Fisheries and Aquatic Sciences 75(12): 2280-2290.
 
@@ -32,15 +74,23 @@ title: "Publications"
 
 > 2017
 
+- Scott, D. C., Harris, S. L., Hebert, A. S., & **van Poorten, B. T.** (2017). Nutrient dynamics in a highly managed reservoir system: considering anadromous sockeye salmon (Oncorhynchus nerka) and nutrient restoration. Lake and Reservoir Management, 33(1), 14-22.
+
 - **van Poorten, B.T.**, B. Barrett, C.J. Walters, R.N.M Ahrens. 2017. Are removal-based abundance models robust to fish behavior? Fisheries Research 196:160-169.
 
 - Barrett*, B, **B.T. van Poorten**, A.B. Cooper. 2017. Concurrently assessing survey mode and sample size in off-site angler surveys. North American Journal of Fisheries Management 34(4):756-767.
 
 > 2016
 
+- **van Poorten, B. T.**, Walters, C. J., & Ward, H. G. (2016). Predicting changes in the catchability coefficient through effort sorting as less skilled fishers exit the fishery during stock declines. Fisheries Research, 183, 379-384.
+
+- **van Poorten, B. T.**, & Walters, C. J. (2016). How can bioenergetics help us predict changes in fish growth patterns?. Fisheries research, 180, 23-30.
+
 - **van Poorten, B.T.** , C.J. Walters, H.G.M. Ward. 2016. Prediction of changes in the catchability coefficient as less skilled fishermen drop out during stock declines. Fisheries Research. 183:279-384.
 
 > 2015
+
+- **van Poorten, B. T.**, & Walters, C. J. (2015). Dependence of feeding rates on body mass when food density is limiting to growth. Canadian Journal of Fisheries and Aquatic Sciences, 72(12), 1916-1922.
 
 - Camp*, E.V., **B.T. van Poorten**, C.J. Walters. 2015. Evaluating short openings as a management tool to maximize value in catch and release fisheries. North American Journal of Fisheries Management. 35:1106-1120.
 
@@ -50,10 +100,44 @@ title: "Publications"
 
 - **van Poorten, B.T.**, S.P. Cox, A.B. Cooper. 2013. Efficacy of harvest and minimum size limit regulations for controlling short-term harvest in recreational fisheries. Fisheries Management and Ecology. 20:258-267.
 
+> 2012
+
+- **van Poorten, B. T.**, Walters, C. J., & Taylor, N. G. (2012). A field-based bioenergetics model for estimating time-varying food consumption and growth. Transactions of the American Fisheries Society, 141(4), 943-961.
+
+- Walters, C. J., **van Poorten, B. T.**, & Coggins, L. G. (2012). Bioenergetics and population dynamics of flannelmouth sucker and bluehead sucker in Grand Canyon as evidenced by tag recapture observations. Transactions of the American Fisheries Society, 141(1), 158-173.
+
+- **van Poorten, B. T.** (2012). Effects of interspecific competition on recruitment processes for rainbow trout in simple two fish-species lakes (Doctoral dissertation, University of British Columbia).
+
 > 2011
 
 - **van Poorten, B.T.**, R. Arlinghaus, K. Daedlow*, S.S. Haertel-Borer. 2011. Social-ecological interactions, management panaceas, and the future of wild fish populations. Proceedings of the National Academy of Sciences 108:12554-12559.
 
+> 2010
+
+- Flowers, H. J., **van Poorten, B. T.**, Tetzlaff, J. C., & Pine III, W. E. (2010). Bioenergetic Approach to Describing Gulf Sturgeon (Acipenser oxyrinchus) Growth in Two Florida Rivers. The Open Fish Science Journal, 3(1).
+
+- **van Poorten, B. T.**, & Walters, C. J. (2010). Estimation of bioenergetics parameters for rainbow trout (Oncorhynchus mykiss) using capture-recapture data with comparison to estimates from a laboratory-based model. The Open Fish Science Journal, 3(1).
+
+- **van Poorten, B. T.**, & McAdam, S. O. (2010). Estimating differences in growth and metabolism in two spatially segregated groups of Columbia River white sturgeon using a field-based bioenergetics model. The Open Fish Science Journal, 3(1).
+
+> 2008
+
+- **van Poorten, B. T.** (2008). Fisheries biology, assessment and management, Michael G. King (Ed.), Blackwell Publishing (2007),(paperback),£ 49.50, 400 pages, ISBN: 978-1-4051-5831-2.
+
+> 2006
+
+- Post, J. R., **van Poorten, B. T.**, Rhodes, T., Askey, P., & Paul, A. (2006). Fish entrainment into irrigation canals: an analytical approach and application to the Bow River, Alberta, Canada. North American Journal of Fisheries Management, 26(4), 875-887.
+
+> 2005
+
+- **van Poorten, B. T.**, & Post, J. R. (2005). Seasonal fishery dynamics of a previously unexploited rainbow trout population with contrasts to established fisheries. North American Journal of Fisheries Management, 25(1), 329-345.
+
+> 2003
+
+- *van Poorten, B. T.* (2003). The impacts of angling on rainbow trout population dynamics. University of Calgary.
+
+> 2001
+
+- Bunt, C. M., **van Poorten, B. T.**, & Wong, L. (2001). Denil fishway utilization patterns and passage of several warmwater species relative to seasonal, thermal and hydraulic dynamics. Ecology of Freshwater Fish, 10(4), 212-219.
 
 ![](https://lh3.googleusercontent.com/GtY1mhRDgiyKG-Qot6t9fcgCEiBxTlpz7HmrLGtGNIBwNNu32bpHlt8j9A95cltJ0Pc5KCrX6v3x6aJq_BgXEzEbbn1tcFUqx1Lme0Qo_dG9sc5OmDtSSv7mvOgER_dXEZ-GiqnfdygZLeXlOrHnoux-j_yZfnZsn8i1avrAYHYy-Xc0IDppNJ8Zysqr0JCHWqvWZkEn_Ne5Z18Xtuql8qYQDz_BiSxpX5_3Ext6e0bSaICHfwyBqrW8lYAeK2caIDCj3AnMm0rbze4lPPVro6B-AePSrJxdrZMLodAT87Ds-NBtsTY2jeKhhDw115INp7K5TCKlDAcUaIfTZMXvWw-IovYuyq-qOe1SqA8PFC5yhHqXJFraVwKX69L-JpynUgu640Ls6I1OZCFxhk72plsTZ-97CFL6wU_zk5UgxKBk59Wv58dpjvmQ4PK5NSOBJZD2g0Fm0XvevEK9DmUUNH3XfyRWWJD86hwB11CDATyedrS_9ERUyCwD9TZWFP2_zQXKOOaVWZH4UpxKJ-KudItvbUG9-K-c97oy1QUiRkwmOkaB2weYuow6UjGmv2PKEz-3Lt68kpXJcc4eVp6vzWmgeLXiuG6q2Lkt1pCl1E2ln0NF446rsn8EwGqUaco55HmC0GzszTnQulnEdXnH7LetfoHRgOM_ZD73uRmcULFn8maJgqtIBbBp4zsM-X0CgczVTwGdVEoJDm4zIDGX2Q=w1918-h960-no?authuser=1)
-
